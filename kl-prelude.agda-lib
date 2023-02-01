@@ -1,0 +1,4 @@
+name: kl-prelude
+depend:
+  standard-library
+include: src/
